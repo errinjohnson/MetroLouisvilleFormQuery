@@ -1,0 +1,78 @@
+////////////////////GLOBAL ///////////////////////
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Sofia', serif;
+}
+
+body {
+    background-image: url(../img/carbon_fibre/carbon_fibre.png);
+    font-family: 'Sofia', serif;
+}
+
+body,
+header {
+    border-radius: 10px;
+}
+
+.nav-tabs {
+    background-color: aliceblue;
+    opacity: .5;
+}
+
+.imageIndexPageTop {
+    background-image: url(../img/sunset-1913108_1920.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    opacity: .9;
+}
+
+section {
+    min-height: 500px;
+}
+
+footer {
+    min-height: 300px;
+}
+
+
+section,
+footer {
+    margin: 0 auto;
+    font-size: 1.2em;
+    text-align: center;
+    background-color: burlywood;
+    border-radius: 15px;
+    opacity: .8;
+}
+
+.lastModified {
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+
+/////////////////////////////RESOURCE PAGE
+//https://cse.google.com//
+////////////////////
+.gsc-control-cse,
+.gsc-control-cse-en {
+    margin: 15px auto;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Sofia';
+}
+.resource{
+    /*background-color: aliceblue;*/
+    border-radius: 10px;
+    border: 2px solid black;
+    min-height: 150px;
+}
+
+#main {
+    width: 100%;
+    height: 150px;
+    margin: 0 auto;
+    border: 5px solid grey;
+}
