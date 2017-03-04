@@ -5,7 +5,7 @@
      -
      [jQuery UI - Query AutoComplete](https://jqueryui.com/autocomplete/)
 
-   -create array for forms || JSON Object
+   -JSON Object
 
    -linkable objects
 
@@ -19,6 +19,12 @@
 
 
    [Metro Louisville Forms Json Format](https://louisvilleky.gov/services/toolbox_forms.json?limit=0)
+   - API fields to GET
+
+        + node_title:
+        + nid:
+        + field_document_file:  NOTE: if empty throw expection - set Flag for Metro Lou to follow up
+        + field_document_url:   NOTE: if empty throw exption - set Flag for Metro Lou to follow up
 
 
    [Metro Louisville Forms](https://data.louisvilleky.gov/dataset/louisville-metro-online-forms)
