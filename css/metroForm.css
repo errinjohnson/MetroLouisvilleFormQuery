@@ -3,12 +3,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    font-family: 'Sofia', serif;
-}
-
-body {
-    background-image: url(../img/carbon_fibre/carbon_fibre.png);
-    font-family: 'Sofia', serif;
+    font-family: 'Trirong', serif;
 }
 
 body,
@@ -21,11 +16,7 @@ header {
     opacity: .5;
 }
 
-.imageIndexPageTop {
-    background-repeat: no-repeat;
-    background-position: right;
-    opacity: .9;
-}
+
 
 section {
     min-height: 500px;
