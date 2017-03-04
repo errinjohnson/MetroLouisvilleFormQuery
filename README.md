@@ -2,11 +2,15 @@
 #Online Web Format To Querty Metro Louisville Form Data
 ##MVP:
    1. Create Query with jQuery-UI to Search Metro Louisville Forms.
-     -[jQuery UI - Query AutoComplete](https://jqueryui.com/autocomplete/)
+     -
+     [jQuery UI - Query AutoComplete](https://jqueryui.com/autocomplete/)
 
    -create array for forms || JSON Object
+
    -linkable objects
+
    -objects || arrays based on Catergories
+
    2. Use basic framework - Boostrap - for front-end Dev
 
    3. Github Open Source Project - Contributors
