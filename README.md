@@ -1,6 +1,6 @@
 # MetroLouisvilleFormQuery
 #Online Web Format To Querty Metro Louisville Form Data
-##MVP:
+##MVP:  orginal idea Margeaux Spring
    1. Create Query with jQuery-UI to Search Metro Louisville Forms.
      -
      [jQuery UI - Query AutoComplete](https://jqueryui.com/autocomplete/)
@@ -15,16 +15,20 @@
 
    3. Github Open Source Project - Contributors
 
-   4. Consume API with Metro Louisville
+   4. Consume API with Metro Louisville - currently using IBM - Watson Api - Flask
 
+##Software Requirements
+    Python
+    Flask
+    Jquery - Jquery-UI
 
    [Metro Louisville Forms Json Format](https://louisvilleky.gov/services/toolbox_forms.json?limit=0)
    - API fields to GET
 
         + node_title:
         + nid:
-        + field_document_file:  NOTE: if empty throw expection - set Flag for Metro Lou to follow up
-        + field_document_url:   NOTE: if empty throw exption - set Flag for Metro Lou to follow up
+        + field_document_file:  NOTE: if empty throw exception - set Flag for Metro Lou to follow up - Austyn Hill
+        + field_document_url:   NOTE: if empty throw exception - set Flag for Metro Lou to follow up - Austyn Hill
 
 
    [Metro Louisville Forms](https://data.louisvilleky.gov/dataset/louisville-metro-online-forms)
