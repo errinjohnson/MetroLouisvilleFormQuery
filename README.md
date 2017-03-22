@@ -15,7 +15,7 @@
 
    3. Github Open Source Project - Contributors
 
-   4. Consume API with Metro Louisville - currently using IBM - Watson Api - Flask
+   4. Consume API with Metro Louisville - currently using IBM - Watson Api - Flask [Watson Pipeline](https://metrolouformquery.mybluemix.net/)
 
 ##Software Requirements
     Python
